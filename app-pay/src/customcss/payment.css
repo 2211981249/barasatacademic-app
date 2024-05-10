@@ -78,7 +78,7 @@
 }
 .pay-btn .btn100{
   margin-left: 35px;
-  color: #fff;
+  color:#333;
   font-size: 18px;
   border-radius: 25px;
   padding: 8px 25px;
@@ -124,6 +124,6 @@
     }
     .pay-btn .btn100{
        
-        margin-top: 30px;
+        margin-top: 20px;
     }
 }
